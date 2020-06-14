@@ -1,4 +1,4 @@
-# Password Generator
+# [Password Generator](https://maximo100100.github.io/Password-Generator/)
 
 This project was very fun to do and I learned alot by watching other people approach this problem 
 on Youtube. I used this one method i saw where someone used the char set for browsers to produce characters
